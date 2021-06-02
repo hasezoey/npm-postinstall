@@ -1,0 +1,12 @@
+{
+  "name": "postinstall_package",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "postinstall": "node ./postinstall.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
